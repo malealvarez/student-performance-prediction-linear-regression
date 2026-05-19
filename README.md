@@ -50,3 +50,11 @@ Student Performance Multiple Linear Regression Dataset from Kaggle.
 ## Data Correlation Heatmap
 
 ![Correlation Heatmap](images/heatmap.png)
+
+## Data Correlation Pairplot
+
+![Correlation Pairplot](images/pairplot.png)
+
+## Data Correlation Feature Importance
+
+![Correlation Feature Importance](images/feature_importance.png)
