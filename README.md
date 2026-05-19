@@ -46,3 +46,7 @@ Student Performance Multiple Linear Regression Dataset from Kaggle.
 - Correlation analysis
 - Model evaluation
 - Feature interpretation
+
+## Data Correlation Heatmap
+
+![Correlation Heatmap](images/heatmap.png)
