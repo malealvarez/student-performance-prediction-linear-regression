@@ -58,3 +58,16 @@ Student Performance Multiple Linear Regression Dataset from Kaggle.
 ## Data Correlation Feature Importance
 
 ![Correlation Feature Importance](images/feature_importance.png)
+
+## Key Findings
+
+- Previous Scores showed the strongest correlation with student performance.
+- Study hours positively influenced the predicted performance index.
+- Extracurricular activities had a smaller impact than expected.
+- Linear Regression performed well for this dataset based on the R² score.
+
+## Limitations
+
+- The dataset is relatively simple and structured.
+- Linear Regression assumes linear relationships between variables.
+- More advanced models could improve prediction performance.
